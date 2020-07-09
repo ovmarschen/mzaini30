@@ -1,6 +1,15 @@
-### Hi there 👋
+```cpp
+#include <iostream>
+using namespace std;
+int main(){
+ cout << "Hello world!";
+}
+```
 
 <!--
+### Hi there 👋
+
+
 **mzaini30/mzaini30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
