@@ -13,7 +13,7 @@ Mahasiswa Psikologi
 
 <p align="center">
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=mzaini30.mzaini30" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mzaini30.mzaini30" />
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmzaini30" />
 
 </p>
