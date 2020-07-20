@@ -1,1 +1,1 @@
-<img src="https://image.freepik.com/free-photo/hacker-man-laptop_144627-25524.jpg" width="100%">
+<img src="https://image.freepik.com/free-photo/close-up-man-reading-quran_23-2147794089.jpg" width="100%">
