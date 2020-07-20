@@ -1,3 +1,1 @@
-<p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=mzaini30.mzaini30" />
-</p>
+<img src="https://image.freepik.com/free-photo/hacker-man-laptop_144627-25524.jpg" width="100%">
