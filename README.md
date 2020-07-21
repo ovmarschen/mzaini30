@@ -20,3 +20,5 @@ YAML        6 mins              █░░░░░░░░░░░░░░░
 4. 🎉 Merged PR [#2](https://github.com//mzaini30/autopug/pull/2) in [mzaini30/autopug](https://github.com//mzaini30/autopug)
 5. ❗️ Opened issue [#9390](https://github.com//forem/forem/issues/9390) in [forem/forem](https://github.com//forem/forem)
 <!--END_SECTION:activity-->
+
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
