@@ -14,3 +14,4 @@ YAML        6 mins              █░░░░░░░░░░░░░░░
 ![github stats](https://github-readme-stats.vercel.app/api?username=mzaini30)
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
