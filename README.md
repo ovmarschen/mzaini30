@@ -13,6 +13,8 @@ YAML        6 mins              █░░░░░░░░░░░░░░░
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=mzaini30)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mzaini30)](https://github.com/LordDashMe/github-contribution-stats/)
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com//mzaini30/murajaah-js/pull/1) in [mzaini30/murajaah-js](https://github.com//mzaini30/murajaah-js)
 2. 🎉 Merged PR [#1](https://github.com//mzaini30/penata-letak/pull/1) in [mzaini30/penata-letak](https://github.com//mzaini30/penata-letak)
