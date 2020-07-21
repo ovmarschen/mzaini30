@@ -1,4 +1,5 @@
 ![Waka Readme](https://github.com/mzaini30/mzaini30/workflows/Waka%20Readme/badge.svg)
+![Update README](https://github.com/mzaini30/mzaini30/workflows/Update%20README/badge.svg)
 ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=mzaini30.mzaini30)
 
 <!--START_SECTION:waka-->
