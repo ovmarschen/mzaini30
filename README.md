@@ -2,6 +2,12 @@
 ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=mzaini30.mzaini30)
 
 <!--START_SECTION:waka-->
+```text
+PHP         43 mins             ███████████░░░░░░░░░░░░░░   46.34 % 
+HTML        28 mins             ███████░░░░░░░░░░░░░░░░░░   30.03 % 
+CSS         15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+YAML        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+```
 <!--END_SECTION:waka-->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=mzaini30)
