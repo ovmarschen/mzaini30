@@ -22,4 +22,5 @@ Git Config  0 secs              ░░░░░░░░░░░░░░░░
 5. ❗️ Opened issue [#9390](https://github.com//forem/forem/issues/9390) in [forem/forem](https://github.com//forem/forem)
 <!--END_SECTION:activity-->
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=forem&repo=forem)](https://github.com/forem/forem)
+<!-- Untuk pin repositori tambahan -->
+<!-- [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=forem&repo=forem)](https://github.com/forem/forem) -->
