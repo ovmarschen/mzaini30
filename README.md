@@ -15,11 +15,11 @@ YAML   6 mins          ░░░░░░░░░░░░░░░░░░░
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mzaini30)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com//mouludin/aanjs/issues/2) in [mouludin/aanjs](https://github.com//mouludin/aanjs)
-2. 🗣 Commented on [#9374](https://github.com//forem/forem/issues/9374) in [forem/forem](https://github.com//forem/forem)
-3. 🗣 Commented on [#28](https://github.com//steampixel/simplePHPRouter/issues/28) in [steampixel/simplePHPRouter](https://github.com//steampixel/simplePHPRouter)
-4. 💪 Opened PR [#29](https://github.com//steampixel/simplePHPRouter/pull/29) in [steampixel/simplePHPRouter](https://github.com//steampixel/simplePHPRouter)
-5. ❗️ Opened issue [#187](https://github.com//Hashnode/user-feedback/issues/187) in [Hashnode/user-feedback](https://github.com//Hashnode/user-feedback)
+1. 🗣 Commented on [#3](https://github.com//mouludin/aanjs/issues/3) in [mouludin/aanjs](https://github.com//mouludin/aanjs)
+2. 💪 Opened PR [#3](https://github.com//mouludin/aanjs/pull/3) in [mouludin/aanjs](https://github.com//mouludin/aanjs)
+3. 🗣 Commented on [#2](https://github.com//mouludin/aanjs/issues/2) in [mouludin/aanjs](https://github.com//mouludin/aanjs)
+4. 🗣 Commented on [#9374](https://github.com//forem/forem/issues/9374) in [forem/forem](https://github.com//forem/forem)
+5. 🗣 Commented on [#28](https://github.com//steampixel/simplePHPRouter/issues/28) in [steampixel/simplePHPRouter](https://github.com//steampixel/simplePHPRouter)
 <!--END_SECTION:activity-->
 
 <!-- Untuk pin repositori tambahan -->
