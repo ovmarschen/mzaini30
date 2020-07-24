@@ -2,6 +2,8 @@
 ![Update README](https://github.com/mzaini30/mzaini30/workflows/Update%20README/badge.svg)
 ![Pengunjung](https://visitor-badge.laobi.icu/badge?page_id=mzaini30.mzaini30)
 
+**My daily coding activity**
+
 <!--START_SECTION:waka-->
 ```text
 HTML   4 hrs 15 mins   ██████████████░░░░░░░░░░░   59.12 % 
@@ -12,7 +14,11 @@ YAML   6 mins          ░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+**My contribution**
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mzaini30)](https://github.com/LordDashMe/github-contribution-stats/)
+
+**My activity on Github**
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#2](https://github.com//LordDashMe/github-contribution-stats/issues/2) in [LordDashMe/github-contribution-stats](https://github.com//LordDashMe/github-contribution-stats)
@@ -22,5 +28,6 @@ YAML   6 mins          ░░░░░░░░░░░░░░░░░░░
 5. 🗣 Commented on [#9374](https://github.com//forem/forem/issues/9374) in [forem/forem](https://github.com//forem/forem)
 <!--END_SECTION:activity-->
 
-<!-- Untuk pin repositori tambahan -->
-<!-- [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=forem&repo=forem)](https://github.com/forem/forem) -->
+**Favorite repositories**
+
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=LordDashMe&repo=github-contribution-stats)](https://github.com/LordDashMe/github-contribution-stats)
