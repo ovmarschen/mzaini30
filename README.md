@@ -35,3 +35,7 @@ YAML   6 mins          ░░░░░░░░░░░░░░░░░░░
 **Favorite repositories**
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=LordDashMe&repo=github-contribution-stats)](https://github.com/LordDashMe/github-contribution-stats)
+
+**Project Euler**
+
+![Project Euler](https://projecteuler.net/profile/mzaini30.png)
