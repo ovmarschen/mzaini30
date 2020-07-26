@@ -4,7 +4,7 @@
 
 **Statistik Efektif**
 
-<a href="https://mzaini30.js.org/efektif/"><img src="https://mzaini30.nasihosting.com/efektif/badge.php/1?raw=true"></a>
+<a href="https://mzaini30.js.org/efektif/"><img src="https://mzaini30.nasihosting.com/efektif/badge.php/1"></a>
 
 **My daily coding activity**
 
